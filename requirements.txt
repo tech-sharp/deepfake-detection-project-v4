@@ -14,4 +14,4 @@ timm
 efficientnet-pytorch
 mlflow
 kaggle
-python-multipart
+python-multipart
