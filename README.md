@@ -205,4 +205,4 @@ deepfake-detection-project-v4/
 
 - ⚠️ Models must be **converted** before use in the web app  
 - 🖼️ Feature visualization is limited to **CNN-based models**  
-- ⏳ Video processing speed depends on frame count  
+- ⏳ Video processing speed depends on frame count  
