@@ -256,4 +256,4 @@ def main():
         logger.info(f'Test Loss: {test_loss:.4f}, Test Accuracy: {test_acc:.4f}')
 
 if __name__ == '__main__':
-    main()
+    main()
